@@ -39,7 +39,7 @@ information for work zones.
 # Testing vehicle
 * Penn State Mapping Vehicle
 <br>
-<img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/MappingVan.png">
+![](./MappingVan.png)
 
 # Broader impacts(WIP)
 
