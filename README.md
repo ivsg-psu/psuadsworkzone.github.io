@@ -9,15 +9,12 @@ Vision – Enable automated vehicles to safely operate in work zones without hum
 Mission – Reduce traffic fatalities and increase mobility for all Americans in work zones through automated vehicles.
 
 Goals – Achieve safe navigation of automated vehicles on par with non-distracted, humanoperated automated vehicles within work zones.
+
 Objectives:
-1. Evaluate the impact of improved connectivity between the AVs and the work zone
-artifacts using DSRC/C-V2X.
-2. Evaluate the impact of increased visibility (machine vision) of pavement markings and
-work zone artifacts on AVs through innovative coatings
-3. Evaluate the impact of providing high definition mapping of work zone artifacts (i.e.
-cones, barrels, workers, vehicles)
-4. Improve the map information dissemination process from the mapping providers and/or
-infrastructure owners/operators to the AVs through standardization of digital mapping
+1. Evaluate the impact of improved connectivity between the AVs and the work zone artifacts using DSRC/C-V2X.
+2. Evaluate the impact of increased visibility (machine vision) of pavement markings and work zone artifacts on AVs through innovative coatings
+3. Evaluate the impact of providing high definition mapping of work zone artifacts (i.e. cones, barrels, workers, vehicles)
+4. Improve the map information dissemination process from the mapping providers and/or infrastructure owners/operators to the AVs through standardization of digital mapping
 information for work zones.
 
 
@@ -45,9 +42,11 @@ information for work zones.
 <br>
 <img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/MappingVan.png">
 
-# Broader impacts
+# Broader impacts(WIP)
 
-# Groups with related interests
+# Groups with related interests(WIP)
+
+# Equipment inventory (WIP)
 
 # Funding
 This project is funded by USDOT via Pennsylvania Department of Transportation under NOFO # 693JJ319NF00001.
