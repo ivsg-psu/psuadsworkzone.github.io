@@ -43,15 +43,11 @@ information for work zones.
 # Testing vehicle
 - Penn State Mapping Vehicle
 <br>
-![](./MappingVan.png)
+<img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/MappingVan.png">
 
 # Broader impacts
 
 # Groups with related interests
-
-
-# Digital Twin Applications
-
 
 # Funding
 This project is funded by USDOT via Pennsylvania Department of Transportation under NOFO # 693JJ319NF00001.
