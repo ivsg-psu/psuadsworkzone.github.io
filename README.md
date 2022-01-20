@@ -18,14 +18,13 @@ Objectives:
 information for work zones.
 
 
-# Team members (work-in-progress)
+# Team members (WIP)
  
   ## Project PIs
   
 
 
-  Dr. Sean Brennan         |  
-:-------------------------:|
+  Dr. Sean Brennan  
 <img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/brennan-sean_2017.jpg?raw=true" height = "260" width= "250">  
 
  
