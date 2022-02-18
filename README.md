@@ -47,5 +47,16 @@ information for work zones.
 
 # Equipment inventory (WIP)
 
+# Groups with related interests
+Please see links below for other research groups with related interests:
+<ul>
+<li>
+ <a href = "https://ctre.iastate.edu/roadway-information-database-rid/">
+  SHRP 2 WEBINAR: SHRP 2 Roadway Information Database (RID): Doing Research without NDS data
+ </a>
+</li>
+</ul>
+
+
 # Funding
 This project is funded by USDOT via Pennsylvania Department of Transportation under NOFO # 693JJ319NF00001.
